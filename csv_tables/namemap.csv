@@ -1,0 +1,171 @@
+id,name
+0,Sannolikhetsteori och bayesianska nätverk
+1,Stokastiska processer
+2,Datatekniska beräkningar
+3,Beräkningsmatematik
+4,"Optimering av realistiska, sammansatta system"
+5,Abstrakt algebra
+6,Biokemi och cellbiologi
+7,Anatomi och fysiologi
+8,Medicinsk bildanalys
+9,E-hälsa: visioner och verktyg
+10,Medicinska informationssystem
+11,E-hälsa: projekt
+12,Kompilatorkonstruktion
+13,Artificiell intelligens
+14,"Teknisk, ekonomisk och samhällelig utvärdering av IT-produkter"
+15,Interaktionsprogrammering
+16,Software Security
+17,Programvarutestning
+18,Realtidssystem
+19,Logikprogrammering
+20,Design och programmering av datorspel
+21,Databasteknik
+22,Avancerad programmering i C++
+23,Programmering i C# och .NET Framework
+24,Avancerad interaktionsdesign
+25,Kompilatorer och interpretatorer
+26,Multicore- och GPU-Programmering
+27,Vetenskaplig metod
+28,Maskininlärning
+29,Mjukvarutekniskt entreprenörskap
+30,Multiagentsystem
+31,Avancerad maskininlärning
+32,Text Mining
+33,Avancerad projektkurs: AI och maskininlärning
+34,"Avancerad projektkurs: Spel-, app- och webbutveckling"
+35,Avancerad projektkurs: Säkra distribuerade och inbyggda system
+36,Avancerad programvarudesign
+37,Programmeringsprojekt med öppen källkod
+38,Affärssystem: process och implementering
+39,Ekonomisk styrning
+40,"Strategi och digitalisering - teknik, standarder och nätverkseffekter"
+41,Enterprise Systems
+42,Datornät
+43,Datorarkitektur
+44,"Industriell ekonomi, grundkurs"
+45,Industriell marknadsföring
+46,Interkulturell kommunikation
+47,Projektledning och organisation
+48,Innovationsledning
+49,Entreprenörskap och idéutveckling
+50,Elektriska mätsystem
+51,Ledarskap
+52,Teknikhistoria
+53,Retorik i teori och praktik
+54,Teknik och etik
+55,Spanska med teknisk inriktning
+56,Tyska med teknisk inriktning
+57,Miljöteknik
+58,Advanced Global Illumination and Rendering
+59,Vetenskaplig visualisering
+60,VR-teknik
+61,Multidimensionell signalanalys
+62,Digital bildbehandling grundkurs
+63,"Bilder och grafik, projektkurs, CDIO"
+64,Maskininlärning för datorseende
+65,Beräkningsfotografi
+66,Teknik för avancerade datorspel
+67,Signalteori
+68,Konstruktion av inbyggda DSP-processorer
+69,Datorteknik - ett datorsystem på ett chip
+70,Radioelektronik
+71,Integrerade radiofrekvenskretsar
+72,Analoga CMOS integrerade kretsar
+73,Fordonsdynamik med reglering
+74,Modellering och reglering av motorer och drivlinor
+75,"Autonoma farkoster - planering, reglering och lärande system"
+76,Informationsnät
+77,Internetteknik
+78,Datasäkerhet
+79,Digital kommunikation
+80,"Modern kanalkodning, inferens och inlärning"
+81,Detektion och estimering av signaler
+82,"Projektkurs i signalbehandling, kommunikation och nätverk, CDIO"
+83,Komplexa nätverk och stora datamängder
+84,Optimal styrning
+85,"Reglerteknisk projektkurs, CDIO"
+86,Modellering och inlärning för dynamiska system
+87,Konstruktion av digitala system
+88,Effektelektronik
+89,Elkraftnät och teknik för förnyelsebar elproduktion
+90,Lågeffektselektronik
+91,Digitala integrerade kretsar
+92,Matematisk optimering
+93,Programmera C++
+94,Strategisk organisatorisk IT-användning - workflow och knowledge management
+95,Fysiken bakom tekniken
+96,Kryptoteknik
+97,Kombinatorisk optimering gk
+98,Optimering för ingenjörer
+99,Multivariat statistik
+100,"Datamodeller och databaser, avancerad kurs"
+101,Analys och utvärdering av kommunikationsnätverk
+102,Engelska
+103,Franska med teknisk inriktning
+104,"Artificiell intelligens för interaktiv media, projektkurs"
+105,Digitalt konstruktionsprojekt
+106,Test och mätning av integrerade kretsar
+107,Systemkonstruktion CDIO
+108,Numerisk linjär algebra
+109,"Linjär algebra, överkurs"
+110,Talteori
+111,Neuronnät och lärande system
+112,Bildgenererande teknik inom medicinen
+113,Fysiologiska tryck och flöden
+114,Teknik för intensivvård och kirurgi
+115,Medicintekniska utblickar
+116,Programmering av parallelldatorer - metoder och verktyg
+117,Formella språk och automatateori
+118,"Informationssäkerhet, fk"
+119,Konstruktion och analys av algoritmer
+120,Distribuerade system
+121,Avancerad webbprogrammering
+122,Data Mining - Clustering and Association Analysis
+123,Automatisk planering
+124,Grön IT
+125,Fysisk interaktion och spelprogrammering
+126,Algoritmisk problemlösning
+127,Webbprogrammering
+128,AI-robotik
+129,Bayesianska metoder
+130,Språkteknologi
+131,Big Data Analytics
+132,Mjukvaruverifiering
+133,Programvaruarkitekturer
+134,Megagame - design för hållbar utveckling i ett förändrat klimat
+135,Metoder och verktyg för stora distribuerade projekt
+136,Data- och programstrukturer
+137,Systemkonstruktion och metodik
+138,Affärsrätt
+139,Immaterialrätt
+140,Datajuridisk översiktskurs
+141,Innovativt entreprenörskap
+142,Ledarskap och industriellt förändringsarbete
+143,E-hälsa: innovation och entreprenörskap
+144,Fysikaliska utblickar
+145,Mångfald och genus inom teknikutveckling
+146,Vetenskapens och teknologins filosofi
+147,Miljömanagement
+148,Modellering och animering
+149,Informationsvisualisering
+150,3D-datorseende
+151,Datorseende för videoanalys
+152,Datorgrafik
+153,Datakompression
+154,Bild- och ljudkompression
+155,"VLSI-konstruktion, CDIO"
+156,Konstruktion av radiotransceivers
+157,Diagnos och övervakning
+158,Kvantalgoritmer och kvantinformation
+159,Trådlös kommunikation
+160,Flerantennkommunikation
+161,Signalbehandling för kommunikation
+162,Industriell reglerteknik
+163,Reglerteori
+164,Sensorfusion
+165,Digitala filter
+166,Analoga filter
+167,Analoga och tidsdiskreta integrerade kretsar
+168,Applikationsspecifika integrerade kretsar
+169,Optimeringslära grundkurs
